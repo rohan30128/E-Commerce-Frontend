@@ -23,7 +23,7 @@ export default function Contact() {
             <BiMailSend /> : www.help@ecommerceapp.com
           </p>
           <p className="mt-3">
-            <BiPhoneCall /> : 012-3456789
+            <BiPhoneCall /> : 883-9786863
           </p>
           <p className="mt-3">
             <BiSupport /> : 1800-0000-0000 (toll free)
